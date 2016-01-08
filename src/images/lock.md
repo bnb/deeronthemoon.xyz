@@ -1,6 +1,6 @@
 ---
-title: Couple
-slug: couple
+title: lock
+slug: lock
 thumb: thumb
 collection: image
 ---

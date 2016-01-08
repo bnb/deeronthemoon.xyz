@@ -1,6 +1,6 @@
 ---
-title: Couple
-slug: couple
+title: Pink Tree
+slug: pinktree
 thumb: thumb
 collection: image
 ---

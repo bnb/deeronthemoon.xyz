@@ -1,5 +1,5 @@
 ---
-title: smoke
+title: Smoke
 slug: smoke
 thumb: thumb
 collection: image

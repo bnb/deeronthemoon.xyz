@@ -21,7 +21,7 @@ metalsmith(__dirname)
       'refer'  : false // Adds a reference to the next post in the series.
     }
   }))
-  .use(ignore('images/**.html'))
+  .use(ignore('images/**.md'))
   .use(layouts({ //Layouts plugin
     engine: "handlebars" // Use Handlebars.
   }))

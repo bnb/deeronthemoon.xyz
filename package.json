@@ -1,0 +1,25 @@
+{
+  "name": "deeronthemoon.xyz",
+  "version": "1.0.0",
+  "description": "Deer on the Moon.",
+  "main": "build.js",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "handlebars": "^4.0.4",
+    "metalsmith": "^2.1.0",
+    "metalsmith-assets": "^0.1.0",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-ignore": "^0.1.2",
+    "metalsmith-layouts": "^1.4.1",
+    "metalsmith-markdown": "^0.2.1",
+    "gulp-gh-pages": "^0.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnb/deeronthemoon.xyz.git"
+  },
+  "author": "&! (bitandbang)",
+  "license": "MIT",
+  "homepage": "http://deeronthemoon.xyz"
+}
